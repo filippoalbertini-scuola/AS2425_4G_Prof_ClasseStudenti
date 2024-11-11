@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AS2425_INF_Prof_ClasseStudenti.Classe">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <AssociationLine Name="Studenti" Type="AS2425_INF_Prof_ClasseStudenti.Studente" ManuallyRouted="true">
+      <Path>
+        <Point X="2" Y="1.969" />
+        <Point X="5" Y="1.969" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAQAAAAAAAAAAABAAAAgAAAAIAAAAAAAAMAAAA=</HashCode>
+      <FileName>Classe.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Studenti" />
+      <Property Name="Docenti" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AS2425_INF_Prof_ClasseStudenti.Docente">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACAAABAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Docente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="materia" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AS2425_4G_Prof_ClasseStudenti.Materia">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AS2425_INF_Prof_ClasseStudenti.Studente">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Studente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
