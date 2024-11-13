@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace AS2425_INF_Prof_ClasseStudenti
+namespace AS2425_4G_Prof_ClasseStudenti
 {
     class Program
     {
