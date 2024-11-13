@@ -1,6 +1,6 @@
 ﻿namespace AS2425_4G_Prof_ClasseStudenti
 {
-    internal class Materia
+    public class Materia
     {
         private string descrizione;
         public Materia(string descrizione)

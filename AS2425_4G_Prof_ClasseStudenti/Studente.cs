@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AS2425_INF_Prof_ClasseStudenti
+namespace AS2425_Prof_ClasseStudenti
 {
     /// <summary>
     /// Studente della classe
     /// </summary>
-    class Studente
+    public class Studente
     {
         string nome;
         string cognome;
